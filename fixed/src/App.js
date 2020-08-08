@@ -1,5 +1,5 @@
 import React from 'react';
-import { useForm } frindex.ie11';
+import { useForm } from 'react-hook-form/dist/index.ie11';
 
 export default function App() {
   const { register, handleSubmit, watch, errors } = useForm();
